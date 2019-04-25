@@ -1,5 +1,4 @@
 # SharedMemory By Frankoo
-include :
 - synchronized Write / Read memory (but its to slow for waiting too much for events)
 - GetModuleBase Address of Target application (credits to whoever created it)
 - Sig scanning Credits @DarthTon
